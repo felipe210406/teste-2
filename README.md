@@ -23,4 +23,4 @@
 
 ## imagem (https://github.com/felipe210406)
 
-para clonas este repositório, use o comando `git copia`
+para clonar este repositório, use o comando `git copia`
